@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/abdelghaniDEV/static/css/main.14913edf.css",
+    "main.js": "/abdelghaniDEV/static/js/main.a0df93cb.js",
+    "static/js/453.51033aa7.chunk.js": "/abdelghaniDEV/static/js/453.51033aa7.chunk.js",
+    "static/media/NEN-1.png": "/abdelghaniDEV/static/media/NEN-1.94bebd7d70431a9aa9b5.png",
+    "static/media/womennew.png": "/abdelghaniDEV/static/media/womennew.bd52c6a17e111f0e988e.png",
+    "static/media/SAFWA@4x.png": "/abdelghaniDEV/static/media/SAFWA@4x.20e3a5d4a78d9a586375.png",
+    "index.html": "/abdelghaniDEV/index.html",
+    "main.14913edf.css.map": "/abdelghaniDEV/static/css/main.14913edf.css.map",
+    "main.a0df93cb.js.map": "/abdelghaniDEV/static/js/main.a0df93cb.js.map",
+    "453.51033aa7.chunk.js.map": "/abdelghaniDEV/static/js/453.51033aa7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14913edf.css",
+    "static/js/main.a0df93cb.js"
+  ]
+}
